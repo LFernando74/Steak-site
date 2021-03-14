@@ -1,0 +1,28 @@
+
+h1{
+  font-size: 50px;
+  color: #62d2a2;
+  animation-duration: 1s;
+  animation-name: slidein;
+
+}
+h3{
+  font-size: 20px;
+  color: white;
+  text-shadow: 0 3px 10px black;
+}
+img{
+  width: 400px;
+  height: 300px;
+}
+h1:hover{
+  color:#1e2022;
+}
+hr{
+  border-style: dashed none none none;
+  border-top-width: 15px;
+  border-color: #a7ff83;
+}
+body{
+  background-image: url("https://srtaco.com.mx/wp-content/themes/srtaco/assets/img/platillos/taco-bistec-fondo.jpg");
+}
